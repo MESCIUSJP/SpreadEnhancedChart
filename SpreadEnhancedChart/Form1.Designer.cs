@@ -45,7 +45,7 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(168F, 168F);
+            AutoScaleDimensions = new SizeF(96F, 96F);
             AutoScaleMode = AutoScaleMode.Dpi;
             ClientSize = new Size(800, 450);
             Controls.Add(fpSpread1);
